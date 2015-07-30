@@ -189,3 +189,30 @@
         
         - Some examples scripts are deliver with the module to show you the power of curser. 
 
+------------
+Installation
+------------
+
+    `curser <https://pypi.python.org/pypi/curser/1.0.1>`_ is hosted on the `PyPI (Python Package Index) <https://pypi.python.org/pypi>`_ .
+    
+    And you can install **curser** with the pip program:
+    
+    ..
+    
+      $ sudo pip install curser
+      
+    Or with the python-pip module:
+    
+    ..
+    
+      $ sudo python -m pip install curser
+      
+---------      
+Copyright
+---------
+
++--------------------------------------------------------------------------+
+| This programm is under copyright from the GPL GNU GENERAL PUBLIC LICENSE |
++--------------------------------------------------------------------------+      
+    
+    
